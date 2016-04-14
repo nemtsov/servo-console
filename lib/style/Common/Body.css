@@ -1,0 +1,27 @@
+body {
+    word-spacing: 2px;
+    /*font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;*/
+    font-family: 'Oxygen', sans-serif;
+}
+
+input, button, .modal-content, .label {
+    border-radius: 0 !important;
+}
+
+a {
+    color: #1777E6;
+    cursor: pointer;
+}
+
+.panel-body > h3 {
+    margin: 0 0 10px;
+    display: inline-block;
+}
+
+.panel-body > h3 > button {
+    margin-left: 10px;
+}
+
+.checkbox label {
+    font-weight: bold;
+}

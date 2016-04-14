@@ -1,0 +1,13 @@
+.Title {
+    margin: 0 0 10px 0;
+}
+
+.Title h1 {
+    display: inline-block;
+    margin: 0 10px 2px 0;
+}
+
+.Title h2 {
+    margin: 2px 0 0;
+    font-size: 20px;
+}

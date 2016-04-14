@@ -1,0 +1,18 @@
+.CreateAppModal .name-input-span {
+    font-size: 12px;
+    font-style: italic;
+    height: 20px;
+    color: lightblue;
+    margin-left: 5px;
+}
+
+.CreateAppModal .invalid {
+    color: #A94442;
+    font-size: 12px;
+    font-style: italic;
+    margin-left: 5px;
+}
+
+.CreateAppModal .handleExplain {
+    margin: -10px 0 25px;
+}

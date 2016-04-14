@@ -1,0 +1,7 @@
+.Comparison .panel h3 {
+    margin: 0 0 5px;
+}
+
+.Comparison .panel h3:not(:first-child) {
+    margin: 25px 0 5px;
+}

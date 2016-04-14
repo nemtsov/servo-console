@@ -1,0 +1,11 @@
+.AppStar .fa {
+    cursor: pointer;
+}
+
+.AppStar .fa-star-o {
+    color: #dddddd;
+}
+
+.AppStar .fa-star {
+    color: #ffe500;
+}

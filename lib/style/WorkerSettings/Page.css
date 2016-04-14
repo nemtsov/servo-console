@@ -1,0 +1,44 @@
+.WorkerSettings .fa-exclamation-triangle {
+    color: #e49a07;
+}
+
+.WorkerSettings .costs {
+    font-size: 28px;
+}
+
+.WorkerSettings .costs .dollars {
+    font-size: 48px;
+    color: #007019
+}
+
+.WorkerSettings .costs .hyphen {
+    font-size: 48px;
+}
+
+.WorkerSettings .summary h3 {
+    line-height: 125%;
+    font-size: 18px;
+}
+
+.WorkerSettings .SettingInput .inputTitle {
+    font-weight: 700;
+    margin: 6px 0;
+}
+
+.WorkerSettings .SettingInput input[type="text"] {
+    margin-left: 15px;
+    width: 60px;
+    text-align: center;
+}
+
+.WorkerSettings .SettingInput button {
+    margin: 5px 0 0 10px;
+}
+
+.WorkerSettings .SettingInput {
+    margin: 0;
+}
+
+.WorkerSettings hr {
+    margin: 5px 0;
+}

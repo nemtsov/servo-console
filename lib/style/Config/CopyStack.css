@@ -1,0 +1,11 @@
+.CopyStackPage .stack-name-label {
+  margin-top: 0;
+}
+
+.CopyStackPage .stack-name-row {
+  margin-top: 5px;
+}
+
+.CopyStackPage .fa-user-secret {
+  font-size: 30px;
+}

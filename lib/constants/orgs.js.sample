@@ -1,0 +1,12 @@
+module.exports = {
+  myOrg: {
+    handle: 'myOrg',
+    name: 'My Awesome Organization',
+    regions: ['virginia', 'oregon']
+  },
+  org2: {
+    handle: 'org2',
+    name: 'Another Awesome Organization',
+    regions: ['virginia']
+  }
+};

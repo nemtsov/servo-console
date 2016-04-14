@@ -1,0 +1,55 @@
+@media(max-width:767px){
+    .stack-badge {
+        padding: 6px 0;
+    }
+}
+
+.stack-badge .wrapper:hover * {
+    text-decoration: none;
+    color: #1777E6;
+}
+
+.stack-badge .stack-name {
+    color: black;
+}
+
+.stack-badge {
+    padding: 12px 20px;
+}
+
+.stack-badge .contents {
+    width: 100%;
+    padding-bottom: 5px;
+    position: relative;
+}
+
+.stack-badge .wrapper {
+    border: 1px solid #cccccc;
+    background-color: #fdfdfd;
+    height: 100px;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+    overflow: hidden;
+    width: 100%;
+}
+
+.stack-badge .details div {
+    margin: 4px 5px;
+    color: #888;
+    display: inline-block;
+}
+
+
+.stack-badge .details {
+    margin-top: 4px;
+    text-align: center;
+}
+
+.stack-badge .stack-name {
+    font-size: 24px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    margin: 2px 0 0;
+}

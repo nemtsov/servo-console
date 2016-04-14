@@ -1,0 +1,9 @@
+{
+  "Worker" : ["Created", "Destroyed", "Stable", "Issue", "Failure"],
+  "App" : ["Created", "Destroyed"],
+  "Stack" : ["Created", "Destroyed"],
+  "Build" : ["Started", "Success", "Failure"],
+  "Config" : ["Change"],
+  "Deploy" : ["Started", "Success", "Failure"],
+  "HealthCheck": ["Success", "Partial", "Failure"]
+}

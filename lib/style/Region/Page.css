@@ -1,0 +1,28 @@
+.RegionPage .options > *:not(:last-child) {
+    margin-right: 10px;
+}
+
+.RegionPage .options {
+    position: relative;
+    margin: 0 0 10px;
+}
+
+.RegionPage .options input[type="search"] {
+    padding-left: 30px;
+}
+
+.RegionPage .options .searchIcon {
+    position: absolute;
+    padding: 6px 8px;
+    pointer-events: none;
+    font-size: 18px;
+}
+
+.RegionPage .panel {
+    margin-top: 20px;
+}
+
+.RegionPage .panel h3 {
+    margin: 0 0 10px 0;
+    display: inline-block;
+}

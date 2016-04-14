@@ -1,0 +1,10 @@
+node_modules/*
+npm-debug.log
+coverage
+.DS_Store
+.idea
+/build
+lib/constants/orgs.js
+lib/constants/regions.js
+
+!node_modules/_

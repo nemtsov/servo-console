@@ -1,0 +1,42 @@
+.WelcomeBanner {
+    position: relative;
+    padding: 0 10px;
+    margin-top: -10px;
+    margin-bottom: 20px;
+    background: linear-gradient(135deg, #1e5799 0%, #1777e6 50%, #7db9e8 100%);
+}
+
+.WelcomeBanner .intro {
+    text-align: center;
+    margin: 10px;
+    color: #fff;
+}
+
+.WelcomeBanner .intro p {
+    font-size: 16px;
+    color: rgba(255,255,255,0.7);
+}
+
+.WelcomeBanner .wrapper {
+    margin: 0 0 20px 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.3);
+    padding: 10px;
+    height: 160px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.WelcomeBanner .wrapper .fa {
+    margin-top: 6px;
+    font-size: 90px;
+    color: #fff;
+}
+
+.WelcomeBanner .close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 30px;
+}

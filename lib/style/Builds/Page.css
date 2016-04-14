@@ -1,0 +1,36 @@
+.BuildsPage .builds-header {
+   padding-bottom: 10px;
+}
+
+.BuildsPage .builds-table {
+    font-size: 14px;
+
+}
+
+.BuildsPage .builds-table a {
+    text-decoration: none;
+    color: black;
+}
+
+.BuildsPage .COMPLETE {
+    background-color:#67B952;
+    color: white;
+    width: 90px;
+}
+
+.BuildsPage .FAILED {
+    background-color:#D8554E;
+    color: white;
+    width: 90px;
+}
+
+.BuildsPage .PENDING,
+.BuildsPage .BUILDING {
+    background-color:#5CB4D5;
+    color: white;
+    width: 90px;
+}
+
+.BuildsPage .newbuild {
+    margin-bottom: 20px;
+}

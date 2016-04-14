@@ -1,0 +1,25 @@
+.StoreStatus {
+    display: inline-block;
+    margin: 0;
+}
+
+.StoreStatus .error i {
+    color: red;
+    font-size: 16px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.StoreStatus > div {
+    display: inline-block;
+}
+
+.StoreStatus .updated {
+    color: #888888
+}
+
+.StoreStatus .loading i {
+    color: #888888
+    font-size: 16px;
+    margin-right: 5px;
+}

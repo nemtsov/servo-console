@@ -1,0 +1,14 @@
+.PermItem {
+    margin-bottom: 10px;
+}
+
+.PermItem .label,
+.PermItem button,
+.PermItem select {
+    margin-left: 5px;
+}
+
+.PermItem .glyphicon {
+    cursor: pointer;
+    margin-left: 5px;
+}

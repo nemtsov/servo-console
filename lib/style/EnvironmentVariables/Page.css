@@ -1,0 +1,47 @@
+.EnvironmentVariables .createForm h4 {
+    margin-top: 0;
+}
+
+.EnvironmentVariables .createForm input[type="text"] {
+    margin: 0 20px 0 5px;
+    width: 25%;
+}
+
+.EnvironmentVariables .createForm button {
+    margin-left: 15px;
+}
+
+.EnvironmentVariables .createForm .alert {
+    margin: 15px 0 0;
+}
+
+.EnvironmentVariables .fa-trash:hover {
+    color: red;
+}
+
+.EnvironmentVariables .fa-lock {
+    color: #0f7401;
+}
+
+.EnvironmentVariables .fa-exclamation-triangle {
+    color: #e49a07;
+}
+
+.EnvironmentVariables .fa-pencil,
+.EnvironmentVariables .fa-trash {
+    cursor: pointer;
+    color: #888;
+}
+
+.EnvironmentVariables .changeInput {
+    width: 60%;
+}
+
+.EnvironmentVariables table {
+    table-layout: fixed;
+    word-wrap: break-word;
+}
+
+.EnvironmentVariables table th:first-child {
+    width: 40%;
+}

@@ -1,0 +1,9 @@
+.TimePicker .starting,
+.TimePicker .ending {
+    margin-top: 10px;
+    min-height: 32px;
+}
+
+.TimePicker .ending {
+    margin-bottom: 10px;
+}

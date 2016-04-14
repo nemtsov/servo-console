@@ -1,0 +1,30 @@
+.LogEvent .timestamp {
+    color: #999;
+    font-size: 80%;
+    margin-right: 10px;
+    float: left;
+}
+
+
+.LogEvent .worker {
+    margin-right: 10px;
+    width: 70px;
+    float: left;
+    padding: .2em .2em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    background-color: #5cb85c;
+    text-align: center;
+}
+
+.LogEvent .message {
+    white-space: pre;
+    font-family: monospace;
+    /*float: left;*/
+}
+
+.LogEvent {
+    white-space: pre;
+}

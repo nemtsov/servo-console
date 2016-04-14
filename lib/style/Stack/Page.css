@@ -1,0 +1,38 @@
+.StackPage h3 {
+    margin: 0 0 10px 0;
+    display: inline-block;
+}
+
+.StackPage h3 .btn {
+    margin: 0 10px;
+}
+
+.StackPage .panel {
+    min-height: 360px;
+}
+
+.StackPage .options .btn {
+    margin-right: 5px;
+}
+
+.StackPage .options {
+    margin-bottom: 15px;
+}
+
+.StackPage .details {
+    margin-top: 15px;
+    font-size: 16px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+@media(min-width:767px){
+    .StackPage .details {
+        text-align: right;
+    }
+}
+
+.StackPage .endpoint {
+    cursor: pointer;
+}

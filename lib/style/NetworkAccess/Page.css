@@ -1,0 +1,23 @@
+.NetworkAccess #newSource {
+    margin-left: 10px;
+}
+
+.NetworkAccess h3 {
+    margin-top: 0;
+}
+
+.NetworkAccess h3 button {
+    margin-left: 10px;
+}
+
+.NetworkAccess h3 small {
+    line-height: 1.5;
+}
+
+.NetworkAccess .newSourceError {
+    float: right;
+}
+
+.NetworkAccess .form-inline {
+    margin-bottom: 10px;
+}

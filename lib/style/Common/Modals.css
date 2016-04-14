@@ -1,0 +1,35 @@
+
+.create-modal {
+    background-color: rgba(255,255,255,0.4);
+}
+
+body.modal-open > div:first-child {
+    -webkit-filter: blur(3px);
+    -moz-filter: blur(3px);
+    -o-filter: blur(3px);
+    -ms-filter: blur(3px);
+    filter: blur(3px);
+}
+
+.create-modal .modal-content {
+
+}
+
+.name-input-span{
+    font-size: 12px;
+    font-style: italic;
+    height: 20px;
+    color: lightblue;
+    margin-left: 5px;
+}
+
+.invalid{
+    color: #A94442;
+    font-size: 12px;
+    font-style: italic;
+    margin-left: 5px;
+}
+
+.icon{
+    color: #808080;
+}

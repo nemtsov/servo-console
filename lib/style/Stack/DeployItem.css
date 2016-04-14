@@ -1,0 +1,15 @@
+.DeployItem {
+    margin-bottom: 10px;
+}
+
+.DeployItem .state {
+    padding-top: 4px;
+}
+
+.DeployItem .commit,
+.DeployItem .time {
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

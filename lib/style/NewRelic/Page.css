@@ -1,0 +1,15 @@
+.NewRelic-Button-Row {
+    margin-top: 10px;
+}
+
+.NewRelic-Input-First-Row {
+    margin-top: 10px;
+}
+
+.NewRelic-Label {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+    padding-top: 5px;
+}

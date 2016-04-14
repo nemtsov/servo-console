@@ -1,0 +1,142 @@
+.config-table tbody tr td {
+    font-size: 15;
+    padding-left: 15;
+    padding-bottom: 5;
+    padding-top: 5;
+}
+
+.config-table .inherited {
+    font-style: italic;
+    color: #999;
+}
+
+.config-table .overridden {
+    text-decoration: line-through;
+}
+
+#key-values,
+#config-box {
+    border: solid black 1px;
+    margin: 5px 10px;
+    border-radius: 10px;
+    padding: 0px;
+}
+
+#config-box:first-child{
+    margin-left: 0;
+}
+
+#key-values .header{
+    border-bottom: solid #999 3px;
+    border-radius: 10px 10px 0 0;
+    /*padding-bottom: 75px;*/
+    background: linear-gradient(135deg, #1e5799 0%, #1777e6 50%, #7db9e8 100%);
+    color: white;
+    padding: auto;
+}
+
+#key-values .header{
+    border-bottom: solid #999 3px;
+    border-radius: 10px 10px 0 0;
+    /*padding-bottom: 75px;*/
+    background: linear-gradient(135deg, #1e5799 0%, #1777e6 50%, #7db9e8 100%);
+    color: white;
+    padding: auto;
+}
+
+#key-values .config-header{
+    border-bottom: solid #999 3px;
+    border-radius: 10px 10px 0 0;
+    background: linear-gradient(135deg, #1e5799 0%, #1777e6 50%, #7db9e8 100%);
+    color: white;
+    /*padding: auto;*/
+}
+
+
+#config-box .config-header {
+    border-bottom: solid #999 3px;
+    border-radius: 10px 10px 0 0;
+    padding-bottom: 75px;
+    background: linear-gradient(135deg, #1e5799 0%, #1777e6 50%, #7db9e8 100%);
+    color: white;
+    padding: auto;
+}
+
+#key-values .config-header h3,
+#config-box .header h3 {
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 0;
+    color: white;
+}
+
+.box-button {
+    color: white;
+    background-color: #449D44;
+    border-color: white;
+}
+
+.plus-button {
+    margin-top: 5px;
+    margin-left: -10px;
+    /*max-width: 60px;*/
+    /*display: inline-block;*/
+    /*text-align: center;*/
+    /*border-color: #7db9e8;*/
+}
+
+#config-box {
+    padding-bottom: 10px;
+}
+
+#config-box .header {
+    padding-bottom: 0px;
+}
+
+#config-box .sub-header {
+    text-align: center;
+    margin-top: 5px;
+}
+
+#config-box label {
+    display: block;
+    text-align: center;
+    background-color: #f0f7fb;
+    color: #999;
+}
+
+#config-box .slider {
+    max-width: 150px;
+    margin: auto;
+}
+
+label.edited span {
+    color: #1777e6;
+}
+
+.submit-config {
+    text-align: center;
+    /*margin-top: 10px;*/
+}
+
+.submit-config .save-button {
+    border-radius: 10px;
+}
+
+h3 .fa{
+    margin-left: 5px;
+}
+
+.export{
+    margin-bottom: 10px;
+}
+
+.import{
+    margin-bottom: -10px;
+}
+#config-box .header{
+    background: linear-gradient(135deg, #1e5799 0%, #1777e6 50%, #7db9e8 100%);
+    border-bottom: solid #999 3px;
+    border-radius: 10px 10px 0 0;
+}
+

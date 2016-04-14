@@ -1,0 +1,32 @@
+.NewDeploy .buildItem td {
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.NewDeploy .buildItem.selected {
+    background-color: #1777E6;
+    color: #FFF;
+}
+
+.NewDeploy .panel h1 {
+    font-size: 120px;
+    margin-top: 0;
+    color: #A1A1A1;
+}
+
+
+.NewDeploy .panel h1 small {
+    font-size: 20px;
+}
+
+.NewDeploy .panel .search {
+    margin-bottom: -1px;
+}
+
+.NewDeploy .alert {
+    margin-top: 10px;
+}
+
+.NewDeploy .noBuilds {
+    margin-top: 20px;
+}

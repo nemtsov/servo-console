@@ -1,0 +1,26 @@
+@media screen and (max-width: 660px) {
+    .mobile-hide{
+        visibility: hidden;
+    }
+}
+
+.Breadcrumbs li {
+    display: inline;
+    float: left;
+    font-size: 22px;
+}
+
+.Breadcrumbs ol > li + li:before {
+    content: ':';
+    font-family: Arial;
+    color: #888;
+    padding: 0 8px;
+}
+
+.Breadcrumbs a {
+    color: #1777E6;
+}
+
+.Breadcrumbs ol {
+    padding-left: 0;
+}

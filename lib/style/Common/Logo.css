@@ -1,0 +1,16 @@
+.Logo {
+    position: relative;
+    height: 100%;
+    display: inline-block;
+}
+
+.Logo > svg {
+    position: absolute;
+    height: 100%;
+    padding: 8px 0;
+}
+
+.Logo > svg text {
+    font-weight: bold;
+    font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}

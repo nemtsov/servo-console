@@ -1,0 +1,35 @@
+.AppPage h3 {
+    margin: 0 0 10px 0;
+    display: inline-block;
+}
+
+.AppPage h3 .btn {
+    margin: 0 10px;
+}
+
+.AppPage .panel {
+    margin-top: 20px;
+}
+
+.AppPage .options .btn {
+    margin-right: 5px;
+}
+
+.AppPage h1 small {
+    font-size: 50%;
+}
+
+.AppPage .nameChangeInput {
+    display: inline-block;
+    margin: 0 0 0 10px;
+}
+
+.AppPage .nameEdit {
+    float: right;
+}
+
+.AppPage h1 .glyphicon {
+    margin: 0 0 0 5px;
+    padding-top: 5px;
+    cursor: pointer;
+}

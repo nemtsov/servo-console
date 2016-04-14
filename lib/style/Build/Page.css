@@ -1,0 +1,94 @@
+.BuildPage h4 {
+    margin-top: -6px;
+    line-height: 1.3;
+}
+
+.sha{
+    padding: 2px 4px;
+    max-width: 70px;
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+    color: #c7254e;
+    border-radius: 4px;
+    background-color: #f9f2f4;
+    margin: auto;
+    /*margin-top: 5px;*/
+}
+
+.BuildPage .build-table{
+    padding-top: 30px;
+    font-size: 14px;
+}
+
+
+.BuildPage .fa-github-square{
+    margin-right: 5px;
+}
+
+.BuildPage .commit-store-status{
+    padding-top: 11px;
+}
+
+.BuildPage .commitList h4 {
+    display: inline-block;
+}
+
+.BuildPage .branches .control-label {
+    margin-right: 5px;
+    font-weight: normal;
+}
+
+.BuildPage h3 {
+    margin-top: 0;
+    display: inline-block;
+}
+
+.BuildPage .commit {
+    cursor: pointer;
+}
+
+.BuildPage .commit:hover {
+    background-color: #ddd;
+}
+
+.BuildPage .commit.selected {
+    background-color: #1777E6;
+    color: #FFF;
+}
+
+.BuildPage .build-table .sha {
+    float: left;
+    padding: 0 4px;
+    margin-right: 5px;
+}
+
+.BuildPage .existing-builds .sha {
+    display: inline;
+    margin: 0 5px;
+}
+
+.BuildPage .existing-builds .TimeAgo {
+    margin-left: 5px;
+}
+
+.BuildPage .existing-builds .summary {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.BuildPage .existing-builds .collapse {
+    margin-top: 10px;
+}
+
+.BuildPage .build-table {
+    table-layout:fixed;
+}
+
+.BuildPage .build-table td {
+    overflow:hidden;
+    white-space:nowrap;
+}
+
+.BuildPage .branches select {
+    width: 100%;
+}

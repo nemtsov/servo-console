@@ -1,0 +1,19 @@
+/*
+*  Endpoints for gateways in each region. 
+*  Do not point directly at core!
+*/
+
+module.exports = {
+  virginia: {
+    endpoint: 'https://virginia.example.com'
+  },
+  oregon: {
+    endpoint: 'https://oregon.example.com'
+  },
+  local: {
+    endpoint: 'http://localhost:3000'
+  },
+  localgateway: {
+    endpoint: 'http://localhost:4500'
+  }
+};

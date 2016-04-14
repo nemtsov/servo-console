@@ -1,0 +1,43 @@
+.Header {
+    height: 50px;
+    margin-bottom: 15px;
+}
+
+.Header > .container {
+    position: relative;
+}
+
+.Header .Breadcrumbs {
+    position: absolute;
+    top: 9px;
+    left: 128px;
+}
+
+.Header .username {
+    padding: 2px 8px 0 0;
+}
+
+.Header .gravatar {
+    vertical-align: top;
+}
+
+.Header .gravatar img {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 1px;
+}
+
+.Header .pull-right > div {
+    display: inline-block;
+}
+
+.Header .pull-right {
+    margin-top: 4px;
+}
+
+.Header .help {
+    font-size: 28px;
+    color: #1777E6;
+    margin: 0 10px 0 0;
+}

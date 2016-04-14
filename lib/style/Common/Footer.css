@@ -1,0 +1,13 @@
+.Footer .row{
+    padding: 20px 0 10px 0;
+}
+
+.Footer a {
+    transition: 0.5s;
+    color: #cbcbcb;
+    text-decoration: none;
+}
+
+.Footer a:hover {
+    color: #1777E6;
+}

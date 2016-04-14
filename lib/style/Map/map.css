@@ -1,0 +1,25 @@
+.RegionMap a {
+    text-decoration: none;
+}
+
+
+.RegionMap .active rect {
+    transition: 0.5s;
+}
+
+.RegionMap .active {
+     cursor: pointer;
+}
+
+.RegionMap .active:hover rect {
+    stroke: #1777E6;
+    stroke-width: 6px;
+}
+
+.RegionMap .fill {
+    fill: #999;
+}
+
+.RegionMap .active .fill {
+    fill: #6C9ED9;
+}

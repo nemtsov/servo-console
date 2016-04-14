@@ -1,0 +1,31 @@
+.LogsPage .search button {
+    height: 34px;
+}
+
+.LogsPage {
+    height: 100%;
+    position: relative;
+}
+
+.LogsPage .viewport {
+    position: absolute;
+    top: 110px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.LogsPage .viewport > .container {
+    height: 100%;
+}
+
+.LogsPage .viewport > .container > .row {
+    height: 100%;
+}
+
+.LogsPage .viewport > .container > .row .logWindow {
+    margin-bottom: 0;
+    height: 95%;
+    overflow-y: scroll;
+    overflow-x: scroll;
+}

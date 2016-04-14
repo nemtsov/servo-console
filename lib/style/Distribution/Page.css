@@ -1,0 +1,57 @@
+.DistributionPage .panel {
+    min-height: 300px;
+}
+
+.DistributionPage nav {
+    margin: 10px;
+}
+
+.DistributionPage .OriginItem .expand {
+    display: inline-block;
+    margin-right: 5px;
+    height: 20px;
+    width: 24px;
+    padding-top: 2px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.DistributionPage .OriginItem .summary {
+    cursor: pointer;
+}
+
+.DistributionPage .OriginItem .details {
+    margin-top: 10px;
+}
+
+.DistributionPage .OriginItem .label {
+    margin-right: 5px;
+}
+
+.DistributionPage .distributions.panel .panel-body {
+    padding-bottom: 0;
+}
+
+.DistributionPage .OriginList .StoreStatus {
+    margin: 0 0 5px 10px;
+}
+
+.DistributionPage h4 {
+    margin-left: 10px;
+}
+
+.DistributionPage h4 button {
+    margin-right: 10px;
+}
+
+.DistributionPage hr {
+    margin: 5px 0;
+}
+
+.DistributionPage .healthStatus {
+    margin-bottom: 5px;
+}
+
+.DistributionPage .OriginList > button {
+    margin: 0 0 5px 10px;
+}
